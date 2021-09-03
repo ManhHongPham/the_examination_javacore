@@ -1,0 +1,30 @@
+2018000024,anh,hoàng,Bac Ninh,18,2.0
+2018000027,chinh,mai,Bac Ninh,20,3.0
+2018000000,dương,nguyễn,Bac Ninh,19,2.0
+2018000002,dương,phạm,Hanoi,20,2.0
+2018000010,dương,bùi,Hai Phong,19,1.0
+2018000022,hoài,bùi,HaiDuong,21,3.0
+2018000011,huy,phạm,Hai Phong,19,1.0
+2018000018,huy,giang,HungYen,18,1.0
+2018000019,huy,mai,Hanoi,22,2.0
+2018000020,huy,nguyễn,HungYen,20,2.0
+2018000005,hòa,hoàng,Hanoi,18,3.0
+2018000004,khánh,hoàng,Bac Ninh,19,2.0
+2018000006,lan,nguyễn,Bac Ninh,22,2.0
+2018000013,lan,bùi,HaiDuong,19,4.0
+2018000017,lan,giang,Hai Phong,22,4.0
+2018000025,lan,giang,Hanoi,21,3.0
+2018000026,lan,phạm,HungYen,18,2.0
+2018000007,linh,mai,HungYen,21,3.0
+2018000008,linh,mai,HaiDuong,18,2.0
+2018000021,linh,nguyễn,Hai Phong,20,2.0
+2018000001,mai,giang,HaiDuong,21,1.0
+2018000029,mai,mai,Bac Ninh,19,4.0
+2018000012,ngân,giang,HaiDuong,20,4.0
+2018000016,ngọc,đỗ,Bac Ninh,22,1.0
+2018000023,ngọc,nguyễn,Hanoi,21,1.0
+2018000003,quang ,mai,HaiDuong,21,4.0
+2018000014,thu,giang,HungYen,20,2.0
+2018000015,thư,hoàng,HaiDuong,21,1.0
+2018000028,thư,giang,Hanoi,22,4.0
+2018000009,thủy,phạm,HaiDuong,21,2.0
